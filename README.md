@@ -1,16 +1,19 @@
-## Hi there 👋
+**Rahul Prasad Shah**  
+`AI/ML` · `Data Science` · `Software`
 
-<!--
-**rahulflux/rahulflux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI, data, and software — one experiment at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+`Python` · `C++` · `Machine Learning` · `Data Science`
+
+### Interests
+
+AI/ML · Data · Software Engineering · Computer Vision
+
+---
+
+
+> **learn → experiment → build**
